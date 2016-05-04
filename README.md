@@ -1,8 +1,8 @@
 #Teamcity Commit Status Publisher
 
 TeamCity build feature publishing a commit status to an external
-system like GitHub, Gerrit Code Review tool, Bitbucket Cloud or
-Atlassian Stash.
+system like GitHub, Gerrit Code Review tool, Bitbucket Cloud,
+Atlassian Stash or [Deveo](https://deveo.com)
 
 ## Builds
 
